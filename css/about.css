@@ -31,11 +31,11 @@
     position: relative;
     overflow: hidden;
     cursor: pointer;
-    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/74321/tw-o.png'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/74321/tw6-o.png'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/74321/tw5-o.png');
+    /* background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/74321/tw-o.png'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/74321/tw6-o.png'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/74321/tw5-o.png');
     background-size: 50% auto, 50% auto, 30% auto;
     background-repeat: repeat-x;
     background-position: 0px 100%, 0px 25%, 0px 50%;
-    transition: background 1s;
+    transition: background 1s; */
 }
 .introduceCard:hover{
     background-color: #FFD60A;
